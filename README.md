@@ -15,9 +15,9 @@ NotVaildAutosarFileException file containing Not valid file Exception class
 
 Bat Containing Batch File {
 
-EmptyFileRun file to run with Empty file
+EmptyFileRun file to run with Empty file (Empty.arxml)
 
-FoundFileRun file to run with Existing file
+FoundFileRun file to run with Existing file (asar.arxml)
 
 NotFoundFileRun file to run with Not Existing file
 
